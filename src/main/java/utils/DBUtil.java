@@ -11,7 +11,6 @@ import org.slf4j.LoggerFactory;
 public class DBUtil {
 
 	private static Logger log = LoggerFactory.getLogger(DBUtil.class);
-	private static Connection dbConn;
 	
 	public static Connection getConnection() throws URISyntaxException, SQLException {
 		return getConn();

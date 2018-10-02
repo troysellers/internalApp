@@ -1,0 +1,7 @@
+target/
+tomcat.8080/
+.DS_Store
+.classpath
+.project
+.settings
+

@@ -1,0 +1,13 @@
+{
+	"name": "Tomcat Scaffold",
+	"description": "Scaffold of embedded tomcat ready for production",
+	"image":"heroku/java",
+	"keywords": [
+		"java", "production"],
+	"addons": [
+		"heroku-redis"
+	],
+	"environments": {
+		"test": {}
+	}
+}

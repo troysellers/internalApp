@@ -9,7 +9,7 @@
 	<name>internal-app</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<tomcat.version>8.5.23</tomcat.version>
+		<tomcat.version>10.0.4</tomcat.version>
 		<webapp-runner.version>8.5.32.1</webapp-runner.version>
 		<maven.compiler.source>10</maven.compiler.source>
 		<maven.compiler.target>10</maven.compiler.target>
